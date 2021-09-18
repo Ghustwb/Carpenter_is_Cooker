@@ -5,5 +5,5 @@
 
 | 菜名        | 图片       | 难易程度 |
 | :-----     | ----:       | :----:  |
-| 土豆回锅肉 | ![土豆回锅肉](images/土豆回锅肉.jpg） {:height="50%" width="50%"} |  |
+| 土豆回锅肉 | <img src="https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/images/土豆回锅肉.jpg" width="48"> |  |
 | 宫保鸡丁 | 单元格 |  |
