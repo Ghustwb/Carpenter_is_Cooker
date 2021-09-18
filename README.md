@@ -5,7 +5,7 @@
 
 | 菜名        | 图片       | 好吃程度 |
 | :-----     | ----:       | :----:  |
-| 土豆回锅肉 | <img src="https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/images/土豆回锅肉.jpg" width="90"> | ★★★★☆ |
+| 土豆回锅肉 | <img src="https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/images/土豆回锅肉.jpg" width="48"> | ★★★★☆ |
 | 宫保鸡丁 | <img src="https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/images/土豆回锅肉.jpg" width="90"> | ★★☆☆☆ |
 | 山药炒木耳 | <img src="https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/images/山药炒木耳.jpg" width="90"> | ★★★☆☆ |
 | 花生米 | <img src="https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/images/花生米.jpg" width="90"> | ★★★☆☆ |
