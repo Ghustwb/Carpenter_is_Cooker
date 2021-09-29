@@ -14,3 +14,13 @@
 | [香煎鲫鱼](https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/香煎鲫鱼.md) | <img src="https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/images/香煎鲫鱼.jpg" width="90"> | ★★★★☆ |
 | [黄焖鸡](https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/黄焖鸡.md) | <img src="https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/images/黄焖鸡.jpg" width="90"> | ★★★★☆ |
 | [黄骨鱼炖豆腐](https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/黄骨鱼炖豆腐.md) | <img src="https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/images/黄骨鱼炖豆腐.jpg" width="90"> | ★★★★☆ |
+| [凉面](https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/凉面.md) | <img src="https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/images/凉面.jpg" width="90"> | ★★★★☆ |
+| [木耳鹌鹑蛋](https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/木耳鹌鹑蛋.md) | <img src="https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/images/木耳鹌鹑蛋.jpg" width="90"> | ★★★☆☆ |
+| [泥蒿炒腊肠](https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/泥蒿炒腊肠.md) | <img src="https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/images/泥蒿炒腊肠.jpg" width="90"> | ★★★★☆ |
+| [农家小炒肉](https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/农家小炒肉.md) | <img src="https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/images/农家小炒肉.jpg" width="90"> | ★★★☆☆ |
+| [千张炒肉](https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/千张炒肉.md) | <img src="https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/images/千张炒肉.jpg" width="90"> | ★★★☆☆ |
+| [清炒花菜](https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/清炒花菜.md) | <img src="https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/images/清炒花菜.jpg" width="90"> | ★★★☆☆ |
+| [清炒毛白菜](https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/清炒毛白菜.md) | <img src="https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/images/清炒毛白菜.jpg" width="90"> | ★★★★☆ |
+| [清炒南瓜](https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/清炒南瓜.md) | <img src="https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/images/清炒南瓜.jpg" width="90"> | ★★★★☆ |
+| [丝瓜炒蛋](https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/丝瓜炒蛋.md) | <img src="https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/images/丝瓜炒蛋.jpg" width="90"> | ★★★★☆ |
+| [五花肉炒四季豆](https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/五花肉炒四季豆.md) | <img src="https://github.com/Ghustwb/Carpenter_is_Cooker/blob/main/images/五花肉炒四季豆.jpg" width="90"> | ★★★★☆ |
